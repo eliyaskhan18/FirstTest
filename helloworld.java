@@ -6,5 +6,6 @@ public class helloworld{
 			System.out.println(num+" + "+i+ " =="+(num*i));
 		}
 		System.out.println("ENd of multiplication");
+		System.out.println("hahhahha");
 	}
 }
